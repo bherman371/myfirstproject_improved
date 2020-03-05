@@ -1,0 +1,26 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: white
+}
+
+button {
+    height: 35px;
+}
+
+.title {
+    background-color: darkgray;
+    text-align: center;
+    padding: 5px;
+}
+
+.body {
+    background-color: darkgray;
+    height: 570px;
+}
